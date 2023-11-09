@@ -1,3 +1,5 @@
+Please note that in this project we have not completely shown the data cleaning, preprocessing steps as the focus in this project is on the use of the Machine learning techniques, Please refer to Census Data project for showcasing of data cleaning and preprocessing. 
+
 The project aims to address the issue of hospital readmissions, which can have significant impacts on both healthcare resources and patient well-being. When a patient is 
 readmitted to the hospital shortly after being discharged, it can result in additional costs, strain on resources, and potential complications for the patient.
 
